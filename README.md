@@ -6,7 +6,7 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosouzamail&layout=compact&langs_count=7&theme=react" />
    <br/><br/>
     <div align ="center">
-    <img width="300" height="200" align="center" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif">
+    <img width="200" height="160" align="center" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif">
     </div>
 </div>
  <br>
